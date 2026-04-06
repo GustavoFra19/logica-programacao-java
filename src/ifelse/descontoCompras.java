@@ -1,3 +1,5 @@
+package ifelse;
+
 import java.util.Scanner;
 public class descontoCompras {
     public static void main(String[] args){

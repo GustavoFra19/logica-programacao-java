@@ -1,3 +1,5 @@
+package variaveisEtipos;
+
 import java.util.Scanner;
 public class declarandoNome {
     public static void main(String[] args){
@@ -13,7 +15,7 @@ public class declarandoNome {
 
         System.out.println("Digite seu nome: ");
         nome = sc.nextLine();
-        System.out.println("Digite sua idade: ");
+        System.out.println("Digite sua variaveisEtipos.idade: ");
         idade = sc.nextInt();
         System.out.println("Digite sua altura: ");
         altura = sc.nextDouble();

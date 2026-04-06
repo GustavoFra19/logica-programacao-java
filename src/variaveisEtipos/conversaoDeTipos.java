@@ -1,3 +1,5 @@
+package variaveisEtipos;
+
 public class conversaoDeTipos {
     public static void main(String[] args){
         double valorDouble = 19.5;

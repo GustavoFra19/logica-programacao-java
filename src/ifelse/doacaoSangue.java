@@ -1,3 +1,5 @@
+package ifelse;
+
 import java.util.Scanner;
 public class doacaoSangue {
     public static void main(String[] args){
@@ -10,7 +12,7 @@ public class doacaoSangue {
         System.out.println("   Sistema de doação de sangue");
         System.out.println("---------------------------------");
 
-        System.out.println("Digite a idade do doador: ");
+        System.out.println("Digite a variaveisEtipos.idade do doador: ");
         idade = sc.nextInt();
         System.out.println("Digite o peso do doador: ");
         peso = sc.nextDouble();

@@ -1,3 +1,5 @@
+package variaveisEtipos;
+
 import java.util.Scanner;
 public class conversorDeMoedas {
     public static void main(String[] args){
