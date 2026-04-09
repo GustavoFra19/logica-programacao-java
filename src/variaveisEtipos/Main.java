@@ -9,7 +9,7 @@ public class Main {
 
       System.out.println("Digite seu nome: ");
       nome = sc.nextLine();
-      System.out.println("Digite sua variaveisEtipos.idade:");
+      System.out.println("Digite sua idade:");
       idade = sc.nextInt();
 
       System.out.println("Seu nome é " + nome + ", e vc tem " + idade + " anos.");
